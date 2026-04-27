@@ -150,12 +150,12 @@ min_tracking_confidence = 0.7    # Hand tracking sensitivity
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **[Your Name]**
+ Made with ❤️ by **[Your Name]**
 
 - GitHub: [@M-zaidmaqsood](https://github.com/M-zaidmaqsood)
 
 ---
 
-## 📄 License
+## 📄License
 
-This project is open source and available under the [MIT License](LICENSE).
+ This project is open source and available under the [MIT License](LICENSE).
